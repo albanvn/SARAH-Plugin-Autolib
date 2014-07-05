@@ -1,0 +1,16 @@
+************************************************
+* Plugin Autolib for SARAH project             *
+* see http://encausse.wordpress.com/s-a-r-a-h/ *
+* Author:Alban Vidal-Naquet                              *
+************************************************
+
+*****************
+* Changelog.txt *
+*****************
+
+
+V1.0 - 05/07/2014
+-----------------
+  Initial release
+  
+

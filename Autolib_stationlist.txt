@@ -1,0 +1,905 @@
+2   330 rue des Pyrénées, 75020 Paris   Paris/Pyrénées/330
+3   106 Boulevard Voltaire, 75011 Paris   Paris/Voltaire/106
+4   60 Avenue Victor Hugo, 75016 Paris   Paris/Victor Hugo/60
+5   2 Boulevard de Clichy, 75018 Paris   Paris/Clichy/2
+7   10 rue de Berri, 75008 Paris   Paris/Berri/10
+8   2 avenue Parmentier, 75011 Paris   Paris/Parmentier/2
+9   245 rue de Tolbiac, 75013 Paris   Paris/Tolbiac/245
+10   145 rue de Tolbiac, 75013 Paris   Paris/Tolbiac/145
+11   59 Boulevard Voltaire, 75011 Paris   Paris/Voltaire/59
+12   78 Avenue du Maine, 75014 Paris   Paris/Maine/78
+13   40 rue du Poteau, 75018 Paris   Paris/Poteau/40
+14   24 boulevard Diderot, 75012 Paris   Paris/Diderot/24
+15   65 rue Ordener, 75018 Paris   Paris/Ordener/65
+16   77 Rue Jean de la Fontaine, 75016 Paris   Paris/Jean de la Fontaine/77
+17   172 boulevard Diderot, 75012 Paris   Paris/Diderot/172
+18   24 Rue Vulpian, 75013 Paris   Paris/Vulpian/24
+19   17 Avenue Victoria, 75001 Paris   Paris/Victoria/17
+20   229 Rue Raymond Losserand, 75014 Paris   Paris/Raymond Losserand/229
+21   58 Rue Monge, 75005 Paris   Paris/Monge/58
+22   2 Place de Catalogne, 75014 Paris   Paris/Catalogne/2
+23   26 Boulevard Jourdan, 75014 Paris   Paris/Jourdan/26
+24   91 Rue du Faubourg Saint-Honoré, 75008 Paris   Paris/Saint-Honoré/91
+25   19 Rue Leblanc, 75015 Paris   Paris/Leblanc/19
+26   123 Rue du Faubourg Saint-Honoré, 75008 Paris   Paris/Saint-Honoré/123
+27   73 Rue de Rome, 75008 Paris   Paris/Rome/73
+28   112 Avenue de Versailles, 75016 Paris   Paris/Versailles/112
+29   69 Rue de Courcelles, 75008 Paris   Paris/Courcelles/69
+30   70 Boulevard de Clichy, 75018 Paris   Paris/Clichy/70
+31   54 Boulevard Sérurier, 75019 Paris   Paris/Sérurier/54
+32   6 place Adolphe Max, 75009 Paris   Paris/Adolphe Max/6
+33   2 Avenue René Fonck, 75019 Paris   Paris/René Fonck/2
+34   6 Boulevard Haussmann, 75009 Paris   Paris/Haussmann/6
+35   105 bis Rue Pelleport, 75020 Paris   Paris/Pelleport/105
+36   65 Avenue Gambetta, 75020 Paris   Paris/Gambetta/65
+37   8 Boulevard Richard Lenoir, 75011 Paris   Paris/Richard Lenoir/8
+38   46 quai de la Rapée, 75012 Paris   Paris/Rapée/46
+39   4 Rue Charles Bossut, 75012 Paris   Paris/Charles Bossut/4
+40   16 Rue du Faubourg Saint-Antoine, 75012 Paris   Paris/Saint-Antoine/16
+41   126 Avenue Philippe Auguste, 75011 Paris   Paris/Philippe Auguste/126
+42   110 Boulevard Richard Lenoir, 75011 Paris   Paris/Richard Lenoir/110
+43   65 avenue Philippe Auguste, 75011 Paris   Paris/Philippe Auguste/65
+44   9 place Saint-Augustin, 75008 Paris   Paris/Saint-Augustin/9
+47   6 avenue Emile Zola, 75015 Paris   Paris/Emile Zola/6
+48   7 boulevard de Picpus, 75012 Paris   Paris/Picpus/7
+49   3 avenue Claude Vellefaux, 75010 Paris   Paris/Claude Vellefaux/3
+50   161 rue du Faubourg Saint-Honoré, 75008 Paris   Paris/Saint-Honoré/161
+51   6 avenue Mathurin Moreau, 75019 Paris   Paris/Mathurin Moreau/6
+52   33 rue d'Alésia, 75014 Paris   Paris/Alésia/33
+53   26 avenue Trudaine, 75009 Paris   Paris/Trudaine/26
+54   31 rue du Professeur Victor Pauchet, 92420 Vaucresson   Vaucresson/Victor Pauchet/31
+55   5 rue Edouard VII, 75009 Paris   Paris/Edouard VII/5
+57   155 Avenue Ledru Rollin, 75011 Paris   Paris/Ledru Rollin/155
+58   236 Boulevard Voltaire, 75011 Paris   Paris/Voltaire/236
+59   81 Boulevard Vincent Auriol, 75013 Paris   Paris/Vincent Auriol/81
+60   1 Boulevard Murat, 75016 Paris   Paris/Murat/1
+61   1 Rue Navier, 75017 Paris   Paris/Navier/1
+62   44 Rue des Pirogues de Bercy, 75012 Paris   Paris/Pirogues de Bercy/44
+63   63 Boulevard Richard Lenoir, 75011 Paris   Paris/Richard Lenoir/63
+64   43 Rue de Monceau, 75008 Paris   Paris/Monceau/43
+65   3 Rue des Halles, 75001 Paris   Paris/Halles/3
+66   189 Rue de Tolbiac, 75013 Paris   Paris/Tolbiac/189
+67   10 Avenue du Docteur Arnold Netter, 75012 Paris   Paris/Arnold Netter/10
+68   58 Avenue D'Ivry, 75013 Paris   Paris/Ivry/58
+69   3 Rue Henard, 75012 Paris   Paris/Henard/3
+70   6 Rue Louis Blanc, 75010 Paris   Paris/Louis Blanc/6
+71   33 Avenue Pierre 1er de Serbie, 75016 Paris   Paris/Pierre 1er de Serbie/33
+72   210 rue de Courcelles, 75017 Paris   Paris/Courcelles/210
+73   28 Avenue de la Porte de Villiers, 75017 Paris   Paris/Porte de Villiers/28
+74   171 Rue de la Convention, 75015 Paris   Paris/Convention/171
+75   161 Avenue de Suffren, 75015 Paris   Paris/Suffren/161
+76   181 quater Avenue de Clichy, 75017 Paris   Paris/Clichy/181
+77   2 Rue Houdart de Lamotte, 75015 Paris   Paris/Houdart de Lamotte/2
+80   61 Boulevard Haussmann, 75008 Paris   Paris/Haussmann/61
+83   20 Boulevard Émile Augier, 75016 Paris   Paris/Émile Augier/20
+84   16 Rue Molitor, 75016 Paris   Paris/Molitor/16
+85   46 Avenue de Villiers, 75017 Paris   Paris/Villiers/46
+87   12 Avenue de Messine, 75008 Paris   Paris/Messine/12
+88   109 avenue Félix Faure, 75015 Paris   Paris/Félix Faure/109
+89   19 Rue Émile Duclaux, 75015 Paris   Paris/Émile Duclaux/19
+90   50 Boulevard Pereire, 75017 Paris   Paris/Pereire/50
+91   77 Boulevard Exelmans, 75016 Paris   Paris/Exelmans/77
+92   1 Avenue Marceau, 75016 Paris   Paris/Marceau/1
+93   77 Avenue de Wagram, 75017 Paris   Paris/Wagram/77
+94   238 Rue du Faubourg Saint-Antoine, 75012 Paris   Paris/Saint-Antoine/238
+95   23 Quai aux Fleurs, 75004 Paris   Paris/Fleurs/23
+96   203 Rue du Faubourg Saint-Martin, 75010 Paris   Paris/Saint-Martin/203
+97   54 Rue David d'Angers, 75019 Paris   Paris/David d'Angers/54
+98   31 rue Beaurepaire, 75010 Paris   Paris/Beaurepaire/31
+99   46 rue de Turenne, 75003 Paris   Paris/Turenne/46
+100   36 avenue de la République, 75011 Paris   Paris/République/36
+101   45 rue Jeanne D'Arc, 75013 Paris   Paris/Jeanne D'Arc/45
+102   142 Rue de Bagnolet, 75020 Paris   Paris/Bagnolet/142
+103   40 Rue Sorbier, 75020 Paris   Paris/Sorbier/40
+104   69 Rue Manin, 75019 Paris   Paris/Manin/69
+105   251 Rue de Crimée, 75019 Paris   Paris/Crimée/251
+106   2 Avenue de Taillebourg, 75011 Paris   Paris/Taillebourg/2
+107   38 Rue Réaumur, 75003 Paris   Paris/Réaumur/38
+108   31 avenue Hoche, 75008 Paris   Paris/Hoche/31
+109   24 rue du Château Landon, 75010 Paris   Paris/Château Landon/24
+110   91 rue du Faubourg Saint-Denis, 75010 Paris   Paris/Saint-Denis/91
+111   336 Rue Lecourbe, 75015 Paris   Paris/Lecourbe/336
+112   16 place des États-Unis, 75016 Paris   Paris/États-Unis/16
+113   108 Rue Jouffroy d'Abbans, 75017 Paris   Paris/Jouffroy d'Abbans/108
+114   51 Rue de Bretagne, 75003 Paris   Paris/Bretagne/51
+115   24 rue du Pont Louis-Philippe, 75004 Paris   Paris/Pont Louis-Philippe/24
+116   41 Boulevard Bourdon, 75004 Paris   Paris/Bourdon/41
+117   356 rue des Pyrénées, 75020 Paris   Paris/Pyrénées/356
+118   38 Rue Lacépède, 75005 Paris   Paris/Lacépède/38
+119   99 Rue Monge, 75005 Paris   Paris/Monge/99
+120   39 Rue Notre-Dame des Champs, 75006 Paris   Paris/Notre-Dame des Champs/39
+121   45 Avenue de la Bourdonnais, 75007 Paris   Paris/Bourdonnais/45
+122   42 Rue du Bac, 75007 Paris   Paris/Bac/42
+123   42 avenue de Friedland, 75008 Paris   Paris/Friedland/42
+124   56 Rue La Fayette, 75009 Paris   Paris/La Fayette/56
+125   31 Bis Rue du Faubourg Montmartre, 75009 Paris   Paris/Montmartre/31
+126   35 Rue de Provence, 75009 Paris   Paris/Provence/35
+127   64 rue du Faubourg Poissonnière, 75010 Paris   Paris/Poissonnière/64
+128   2 Rue du Buisson Saint Louis, 75010 Paris   Paris/Buisson Saint Louis/2
+129   11 Rue de la Grange aux Belles, 75010 Paris   Paris/Grange aux Belles/11
+130   242 Rue du Faubourg Saint-Martin, 75010 Paris   Paris/Saint-Martin/242
+131   143 Rue La Fayette, 75010 Paris   Paris/La Fayette/143
+132   28 Rue de Paradis, 75010 Paris   Paris/Paradis/28
+133   22 Boulevard de Belleville, 75020 Paris   Paris/Belleville/22
+134   182 Boulevard Voltaire, 75011 Paris   Paris/Voltaire/182
+135   8 Boulevard Voltaire, 75011 Paris   Paris/Voltaire/8
+136   188 rue de Courcelles, 75017 Paris   Paris/Courcelles/188
+137   7 rue Raymond Pitet, 75017 Paris   Paris/Raymond Pitet/7
+138   157 Boulevard de L'Hôpital, 75013 Paris   Paris/Hôpital/157
+139   44 Avenue de Suffren, 75015 Paris   Paris/Suffren/44
+140   92 Rue des Orteaux, 75020 Paris   Paris/Orteaux/92
+141   92 Boulevard des Batignolles, 75017 Paris   Paris/Batignolles/92
+142   8 Avenue de la Porte de Montrouge, 75014 Paris   Paris/Porte de Montrouge/8
+143   128 avenue de la République, 75011 Paris   Paris/République/128
+144   1 rue Chazelles, 75017 Paris   Paris/Chazelles/1
+145   75 rue de la Chapelle, 75018 Paris   Paris/Chapelle/75
+146   199 Rue du Faubourg Saint-Antoine, 75011 Paris   Paris/Saint-Antoine/199
+147   97 Rue de Charenton, 75012 Paris   Paris/Charenton/97
+148   2 Rue Fabre d'Églantine, 75012 Paris   Paris/Fabre d'Églantine/2
+149   48 Avenue de Saint-Mandé, 75012 Paris   Paris/Saint-Mandé/48
+150   12 Rue Gouthière, 75013 Paris   Paris/Gouthière/12
+151   4 Avenue Jean Jaurès, 94220 Charenton-le-Pont   Charenton-le-Pont/Jean Jaurès/4
+152   24 rue Caillaux, 75013 Paris   Paris/Caillaux/24
+153   35 Rue Louis Blanc, 93400 Saint-Ouen   Saint-Ouen/Louis Blanc/35
+154   30 Quai de Dion Bouton, 92800 Puteaux   Puteaux/Dion Bouton/30
+155   145 Rue Raymond Losserand, 75014 Paris   Paris/Raymond Losserand/145
+156   183 Rue des Renouillers, 92700 Colombes   Colombes/Renouillers/183
+157   178 Rue Lecourbe, 75015 Paris   Paris/Lecourbe/178
+158   8 Rue Benoît Malon, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Benoît Malon/8
+159   75 Rue de la Convention, 75015 Paris   Paris/Convention/75
+160   5 Place du Commerce, 75015 Paris   Paris/Commerce/5
+161   2 Avenue Albert 1er, 92500 Rueil-Malmaison   Rueil-Malmaison/Albert 1er/2
+162   47 Rue de Vouillé, 75015 Paris   Paris/Vouillé/47
+163   1 Rue du Colonel Pierre Avia, 75015 Paris   Paris/Colonel Pierre Avia/1
+164   70 Avenue Paul Langevin, 92260 Fontenay-aux-Roses   Fontenay-aux-Roses/Paul Langevin/70
+165   20 Boulevard de Vaugirard, 75015 Paris   Paris/Vaugirard/20
+166   2 Avenue Mozart, 75016 Paris   Paris/Mozart/2
+167   101 Avenue Mozart, 75016 Paris   Paris/Mozart/101
+168   20 Rue Gambetta, 92000 Nanterre   Nanterre/Gambetta/20
+169   18 Avenue Victor Hugo, 75016 Paris   Paris/Victor Hugo/18
+170   2 Rue Georges Berger, 75017 Paris   Paris/Georges Berger/2
+171   5 Avenue Mac Mahon, 75017 Paris   Paris/Mac Mahon/5
+172   27 Rue des Batignolles, 75017 Paris   Paris/Batignolles/27
+173   19 Avenue Gambetta, 75020 Paris   Paris/Gambetta/19
+174   115 Boulevard Pereire, 75017 Paris   Paris/Pereire/115
+175   89 Rue des Pyrénées, 75020 Paris   Paris/Pyrénées/89
+176   5 bis Rue du Capitaine Ferber, 75020 Paris   Paris/Capitaine Ferber/5
+177   159 Rue Manin, 75019 Paris   Paris/Manin/159
+178   9 Rue des Sept Arpents, 75019 Paris   Paris/Sept Arpents/9
+179   96 Avenue Simon Bolivar, 75019 Paris   Paris/Simon Bolivar/96
+180   4 Avenue Secrétan, 75019 Paris   Paris/Secrétan/4
+181   1 Rue Ordener, 75018 Paris   Paris/Ordener/1
+182   62 Rue Ramey, 75018 Paris   Paris/Ramey/62
+183   19 Rue Polonceau, 75018 Paris   Paris/Polonceau/19
+184   32 boulevard Exelmans, 75016 Paris   Paris/Exelmans/32
+185   65 Avenue Émile Zola, 75015 Paris   Paris/Émile Zola/65
+187   50 Boulevard Auguste Blanqui, 75013 Paris   Paris/Auguste Blanqui/50
+188   1 Rue de la Meurthe, 75019 Paris   Paris/Meurthe/1
+189   36 Rue Étienne Marcel, 75002 Paris   Paris/Étienne Marcel/36
+190   18 Rue de la Perle, 75003 Paris   Paris/Perle/18
+191   46 Quai Henri IV, 75004 Paris   Paris/Henri IV/46
+192   7 Rue René Thibert, 94800 Villejuif   Villejuif/René Thibert/7
+193   36 quai de Béthune, 75004 Paris   Paris/Béthune/36
+194   1 Rue Dante, 75005 Paris   Paris/Dante/1
+195   178 Avenue Galliéni, 94160 Saint-Mandé   Saint-Mandé/Galliéni/178
+196   42 avenue du Général de Gaulle, 94700 Maisons-Alfort   Maisons-Alfort/De Gaulle/42
+197   152 Rue de Grenelle, 75007 Paris   Paris/Grenelle/152
+198   422 Rue Saint-Honoré, 75008 Paris   Paris/Saint-Honoré/422
+199   4 Rue Louis Sallé, 94450 Limeil-Brévannes   Limeil-Brévannes/Louis Sallé/4
+200   38 Avenue de la France Libre, 94000 Créteil   Créteil/France Libre/38
+201   9 Boulevard des Batignolles, 75008 Paris   Paris/Batignolles/9
+202   23 Boulevard de Clichy, 75009 Paris   Paris/Clichy/23
+203   39 Avenue de la République, 94110 Arcueil   Arcueil/République/39
+204   31 Boulevard Rochechouart, 75009 Paris   Paris/Rochechouart/31
+205   13 Rue Paul Lafargue, 93400 Saint-Ouen   Saint-Ouen/Paul Lafargue/13
+206   88 Avenue Ledru-Rollin, 75012 Paris   Paris/Ledru-Rollin/88
+207   44 Place de l'Église, 93500 Pantin   Pantin/Église/44
+208   103 bis rue de Reuilly, 75012 Paris   Paris/Reuilly/103
+209   3 Rue Georges Pompidou, 93260 Les Lilas   Les Lilas/Georges Pompidou/3
+210   122 ter Rue de Picpus, 75012 Paris   Paris/Picpus/122
+211   2 Avenue John Fitzgerald Kennedy, 93350 Le Bourget   Le Bourget/John Fitzgerald Kennedy/2
+212   26 Place de la Nation, 75012 Paris   Paris/Nation/26
+213   8 Place du 25 Août 1944, 75014 Paris   Paris/25 Août 1944/8
+214   211 Rue de Versailles, 92410 Ville-d'Avray   Ville-d'Avray/Versailles/211
+215   46 Rue Pernety, 75014 Paris   Paris/Pernety/46
+216   77 Rue Jean Bleuzen, 92170 Vanves   Vanves/Jean Bleuzen/77
+217   56 Rue des Plantes, 75014 Paris   Paris/Plantes/56
+218   15 Rue de Verdun, 92150 Suresnes   Suresnes/Verdun/15
+219   3 Rue Salomon de Rothschild, 92150 Suresnes   Suresnes/Salomon de Rothschild/3
+220   123 Grande Rue, 92310 Sèvres   Sèvres/Grande Rue/123
+221   24 Rue Barbès, 92120 Montrouge   Montrouge/Barbès/24
+222   18 Boulevard Garibaldi, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Garibaldi/18
+223   21 Boulevard des Îles, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Îles/21
+224   125 Avenue Louis Roche, 92230 Gennevilliers   Gennevilliers/Louis Roche/125
+225   255 Avenue Jean Jaurès, 92140 Clamart   Clamart/Jean Jaurès/255
+226   98 Boulevard de Vanves, 92320 Châtillon   Châtillon/Vanves/98
+227   33 Avenue Sully Prudhomme, 92290 Châtenay-Malabry   Châtenay-Malabry/Sully Prudhomme/33
+228   24 Boulevard de la République, 92100 Boulogne-Billancourt   Boulogne-Billancourt/République/24
+229   89 Avenue Albert Petit, 92220 Bagneux   Bagneux/Albert Petit/89
+230   97 Rue Georges Guynemer, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Georges Guynemer/97
+231   236 Rue des Pyrénées, 75020 Paris   Paris/Pyrénées/236
+232   161 Avenue Gambetta, 75020 Paris   Paris/Gambetta/161
+233   5 Rue Henry Brisson, 75018 Paris   Paris/Henry Brisson/5
+234   113 Rue Duhesme, 75018 Paris   Paris/Duhesme/113
+235   143 Avenue Émile Zola, 75015 Paris   Paris/Émile Zola/143
+236   120 Rue Ordener, 75018 Paris   Paris/Ordener/120
+237   4 Avenue du Maine, 75015 Paris   Paris/Maine/4
+238   71 rue Caulaincourt, 75018 Paris   Paris/Caulaincourt/71
+239   41 Boulevard Pasteur, 75015 Paris   Paris/Pasteur/41
+240   2 Avenue de Suffren, 75015 Paris   Paris/Suffren/2
+241   48 Rue Henri Huchard, 75018 Paris   Paris/Henri Huchard/48
+242   24 Avenue d'Iéna, 75016 Paris   Paris/Iéna/24
+243   33 Rue du Ranelagh, 75016 Paris   Paris/Ranelagh/33
+244   40 Avenue de la Grande Armée, 75017 Paris   Paris/Grande Armée/40
+245   180 Avenue Victor Hugo, 75016 Paris   Paris/Victor Hugo/180
+246   23 Boulevard Delessert, 75016 Paris   Paris/Delessert/23
+247   1 Avenue de la Porte Pouchet, 75017 Paris   Paris/Porte Pouchet/1
+248   271 Boulevard Pereire, 75017 Paris   Paris/Pereire/271
+249   35 rue de Boucry, 75018 Paris   Paris/Boucry/35
+250   7 boulevard Malesherbes, 75008 Paris   Paris/Malesherbes/7
+251   9 avenue Arblade, 92240 Malakoff   Malakoff/Arblade/9
+252   80 Rue de Dantzig, 75015 Paris   Paris/Dantzig/80
+253   29 Avenue Georges Pompidou, 92390 Villeneuve-la-Garenne   Villeneuve-la-Garenne/Pompidou/29
+254   1 Place de la République, 92300 Levallois-Perret   Levallois-Perret/République/1
+255   99 Boulevard Arago, 75014 Paris   Paris/Arago/99
+257   2 bis Place du 8 mai 1945, 92500 Rueil-Malmaison   Rueil-Malmaison/8 mai 1945/2
+258   41 Rue Lamartine, 92000 Nanterre   Nanterre/Lamartine/41
+259   60 Avenue du Président Franklin Roosevelt, 92330 Sceaux   Sceaux/Franklin Roosevelt/60
+260   188 Rue du Lieutenant-Colonel de Montbrison, 92500 Rueil-Malmaison   Rueil-Malmaison/De Montbrison/188
+261   105 Avenue Jean Jaurès, 93700 Drancy   Drancy/Jean Jaurès/105
+263   6 Place Hérold, 92400 Courbevoie   Courbevoie/Hérold/6
+264   15 Rue Marcel Ethis, 93230 Romainville   Romainville/Marcel Ethis/15
+265   3 Rue Camille Desmoulins, 94230 Cachan   Cachan/Camille Desmoulins/3
+266   16 Avenue du Général Malleret-Joinville, 94140 Alfortville   Alfortville/Malleret-Joinville/16
+267   403 Avenue de la République, 92000 Nanterre   Nanterre/République/403
+268   28 Rue Anatole France, 92370 Chaville   Chaville/Anatole France/28
+269   22 Boulevard de Pésaro, 92000 Nanterre   Nanterre/Pésaro/22
+270   52 Boulevard de la République, 92250 La Garenne-Colombes   La Garenne-Colombes/République/52
+271   108 rue de Bercy, 75012 Paris   Paris/Bercy/108
+272   37 quai de Grenelle, 75015 Paris   Paris/Grenelle/37
+273   2 rue de Cronstadt, 75015 Paris   Paris/Cronstadt/2
+274   13 avenue de la Grande Armée, 75016 Paris   Paris/Grande Armée/13
+275   119 avenue de Flandre, 75019 Paris   Paris/Flandre/119
+276   76 rue Botzaris, 75019 Paris   Paris/Botzaris/76
+277   215 avenue de la Division Leclerc, 92290 Châtenay-Malabry   Châtenay-Malabry/Division Leclerc/215
+278   Place Montgolfier - Parking Montgolfier, 94410 Saint-Maurice   Saint-Maurice/Montgolfier/Parking
+279   24 boulevard Paul Vaillant Couturier, 93700 Drancy   Drancy/Couturier/24
+280   1 place du 8 mai 1945, 94340 Joinville-le-Pont   Joinville-le-Pont/8 mai 1945/1
+281   51 Rue Eugène Oudiné, 75013 Paris   Paris/Eugène Oudiné/51
+282   4 Rue Croix des Petits Champs, 75001 Paris   Paris/Croix des Petits Champs/4
+283   4 Rue de Montfaucon, 75006 Paris   Paris/Montfaucon/4
+284   137 Rue des Pyrénées, 75020 Paris   Paris/Pyrénées/137
+285   122 Rue Ménilmontant, 75020 Paris   Paris/Ménilmontant/122
+286   65 Rue René Cros, 92220 Bagneux   Bagneux/René Cros/65
+287   43 Avenue Henri Barbusse, 92220 Bagneux   Bagneux/Henri Barbusse/43
+288   36 Avenue Carnot, 94230 Cachan   Cachan/Carnot/36
+289   24 Avenue du Pont Royal, 94230 Cachan   Cachan/Pont Royal/24
+290   36 Rue des Saussaies, 94230 Cachan   Cachan/Saussaies/36
+291   58 Avenue de la Division Leclerc, 94230 Cachan   Cachan/Division Leclerc/58
+292   46 Rue du Général Leclerc, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Leclerc/46
+293   1 Rue René Jacques, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/René Jacques/1
+294   22 Avenue Jean Jaurès, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Jean Jaurès/22
+295   1 Avenue du Général Galliéni, 94340 Joinville-le-Pont   Joinville-le-Pont/Galliéni/1
+296   3 Rue du Transvaal, 92250 La Garenne-Colombes   La Garenne-Colombes/Transvaal/3
+297   7 Rue du Chevalier de la Barre, 93350 Le Bourget   Le Bourget/Chevalier de la Barre/7
+298   1 Rue Legrand, 92240 Malakoff   Malakoff/Legrand/1
+299   2 Rue de Rungis, 75013 Paris   Paris/Rungis/2
+300   62 Avenue Parmentier, 75011 Paris   Paris/Parmentier/62
+301   8 Quai du Marché Neuf, 75004 Paris   Paris/Marché Neuf/8
+302   52 Rue de Bagneux, 92330 Sceaux   Sceaux/Bagneux/52
+303   49 Rue Paul Vaillant Couturier, 92240 Malakoff   Malakoff/Paul Vaillant Couturier/49
+304   94 Rue Paul Vaillant Couturier, 92000 Nanterre   Nanterre/Paul Vaillant Couturier/94
+305   109 Rue du 8 mai 1945, 92000 Nanterre   Nanterre/8 mai 1945/109
+306   4 Rue Sébastopol, 92400 Courbevoie   Courbevoie/Sébastopol/4
+307   19 Rue de Lyon, 75012 Paris   Paris/Lyon/19
+308   47 Boulevard Charles de Gaulle, 92240 Malakoff   Malakoff/Charles de Gaulle/47
+309   21 Rue de Chateaudun, 75009 Paris   Paris/Chateaudun/21
+310   2 Rue Marcel Monge, 92150 Suresnes   Suresnes/Marcel Monge/2
+311   44 Avenue George V, 75008 Paris   Paris/George V/44
+312   17 Rue Custine, 75018 Paris   Paris/Custine/17
+313   2 Rue Marcelin Berthelot, 93700 Drancy   Drancy/Marcelin Berthelot/2
+314   97 Rue Roger Salengro, 93700 Drancy   Drancy/Roger Salengro/97
+315   2 Rue du Nouveau Bercy, 94220 Charenton-le-Pont   Charenton-le-Pont/Nouveau Bercy/2
+316   101 Avenue du Général Leclerc, 75014 Paris   Paris/Leclerc/101
+317   108 Rue Balard, 75015 Paris   Paris/Balard/108
+318   77 Rue Nationale, 75013 Paris   Paris/Nationale/77
+319   105 Rue de Rennes, 75006 Paris   Paris/Rennes/105
+320   8 Rue Denfert Rochereau, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Denfert Rochereau/8
+321   213 Rue Sadi Carnot, 93170 Bagnolet   Bagnolet/Sadi Carnot/213
+322   36 Boulevard Louise Michel, 92230 Gennevilliers   Gennevilliers/Louise Michel/36
+323   18 Rue Perrée, 75003 Paris   Paris/Perrée/18
+324   42 Avenue Michelet, 93400 Saint-Ouen   Saint-Ouen/Michelet/42
+325   1 Avenue Gambetta, 75020 Paris   Paris/Gambetta/1
+326   12 Rue des Pyramides, 75001 Paris   Paris/Pyramides/12
+327   2 Rue de l'Amiral Coligny, 75001 Paris   Paris/Amiral Coligny/2
+328   26 Rue du Quatre Septembre, 75002 Paris   Paris/Quatre Septembre/26
+329   39 Rue Volta, 75003 Paris   Paris/Volta/39
+330   19 Rue des Filles du Calvaire, 75003 Paris   Paris/Filles du Calvaire/19
+331   8 Boulevard de la Madeleine, 75009 Paris   Paris/Madeleine/8
+332   5 Rue de la Chaussée d'Antin, 75009 Paris   Paris/Chaussée d'Antin/5
+333   20 Rue Villiot, 75012 Paris   Paris/Villiot/20
+334   188 Avenue de Choisy, 75013 Paris   Paris/Choisy/188
+335   85 Boulevard Arago, 75014 Paris   Paris/Arago/85
+336   18 Rue Balard, 75015 Paris   Paris/Balard/18
+337   230 Rue de Vaugirard, 75015 Paris   Paris/Vaugirard/230
+338   61 Avenue de Flandre, 75019 Paris   Paris/Flandre/61
+339   77 Quai de Seine, 75019 Paris   Paris/Seine/77
+340   30 Boulevard de Ménilmontant, 75020 Paris   Paris/Ménilmontant/30
+341   17 Rue Émile Zola, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Émile Zola/17
+342   17 Avenue Louis Pasteur, 92220 Bagneux   Bagneux/Louis Pasteur/17
+343   5 Rue Jean Marin Naudin, 92220 Bagneux   Bagneux/Jean Marin Naudin/5
+344   1 Place Ferrari, 92140 Clamart   Clamart/Ferrari/1
+345   1 Rue Gounod, 92700 Colombes   Colombes/Gounod/1
+346   20 Avenue Lombard, 92260 Fontenay-aux-Roses   Fontenay-aux-Roses/Lombard/20
+347   66 Boulevard Camélinat, 92230 Gennevilliers   Gennevilliers/Camélinat/66
+348   31 Rue Camille Desmoulins, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Camille Desmoulins/31
+349   50 Rue Guynemer, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Guynemer/50
+350   46 Rue Joseph Frantz, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Joseph Frantz/46
+351   28 Rue Bara, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Bara/28
+352   44 Rue de Champ Chardon, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Champ Chardon/44
+353   57 Rue de l'Égalité, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Égalité/57
+354   2 Rue du Général Malleret Joinville, 92240 Malakoff   Malakoff/Malleret Joinville/2
+355   9 Rue de la Gare, 92000 Nanterre   Nanterre/Gare/9
+356   74 Avenue Pablo Picasso, 92000 Nanterre   Nanterre/Pablo Picasso/74
+357   6 Rue Pablo Neruda, 92000 Nanterre   Nanterre/Pablo Neruda/6
+358   33 Avenue Jules Quentin, 92000 Nanterre   Nanterre/Jules Quentin/33
+359   61 Boulevard Émile Zola, 92000 Nanterre   Nanterre/Émile Zola/61
+360   4 Rue Auguste Perret, 92500 Rueil-Malmaison   Rueil-Malmaison/Auguste Perret/4
+361   3 Avenue de la Gare, 92330 Sceaux   Sceaux/Gare/3
+362   2 Avenue de la Cristallerie, 92310 Sèvres   Sèvres/Cristallerie/2
+363   22 Rue Auguste Blanqui, 93700 Drancy   Drancy/Auguste Blanqui/22
+364   3 Rue Dulcie September, 93400 Saint-Ouen   Saint-Ouen/Dulcie September/3
+365   32 avenue François Vincent Raspail, 94110 Arcueil   Arcueil/François Vincent Raspail/32
+367   102 Rue Juliette Savar, 94000 Créteil   Créteil/Juliette Savar/102
+368   5 Rue des Archives, 94000 Créteil   Créteil/Archives/5
+369   18 Rue Gabriel Fauré, 94000 Créteil   Créteil/Gabriel Fauré/18
+370   4 Rue de Cotonou, 94000 Créteil   Créteil/Cotonou/4
+371   16 Avenue du Maréchal Lyautey, 94000 Créteil   Créteil/Maréchal Lyautey/16
+372   142 Avenue Laferrière, 94000 Créteil   Créteil/Laferrière/142
+373   49 Avenue du Docteur Paul Casalis, 94000 Créteil   Créteil/Paul Casalis/49
+374   18 Place Mozart, 94340 Joinville-le-Pont   Joinville-le-Pont/Mozart/18
+375   3 Rue Mongenot, 94160 Saint-Mandé   Saint-Mandé/Mongenot/3
+376   1 rue du Docteur Schweitzer, 92220 Bagneux   Bagneux/Schweitzer/1
+377   20 Rue Cognacq Jay, 75007 Paris   Paris/Cognacq Jay/20
+378   112 Avenue de Suffren, 75015 Paris   Paris/Suffren/112
+379   27 Rue Faidherbe, 75011 Paris   Paris/Faidherbe/27
+380   26 Avenue Duquesne, 75007 Paris   Paris/Duquesne/26
+381   168 Rue du Faubourg Saint-Martin, 75010 Paris   Paris/Saint-Martin/168
+382   16 Avenue Henri Barbusse, 92700 Colombes   Colombes/Henri Barbusse/16
+383   11 Place Stalingrad, 92150 Suresnes   Suresnes/Stalingrad/11
+384   20 Chemin Latéral, 93700 Drancy   Drancy/Latéral/20
+385   2 Rue Péguy, 75006 Paris   Paris/Péguy/2
+386   81 Avenue Bosquet, 75007 Paris   Paris/Bosquet/81
+387   26 Place Etienne Pernet, 75015 Paris   Paris/Etienne Pernet/26
+388   1 Rue Jules Romains, 75019 Paris   Paris/Jules Romains/1
+389   20 Avenue Pablo Picasso, 92000 Nanterre   Nanterre/Pablo Picasso/20
+390   13 Rue de Lens, 92000 Nanterre   Nanterre/Lens/13
+391   50 Boulevard Henri Sellier, 92150 Suresnes   Suresnes/Henri Sellier/50
+392   52 Rue Carnot, 92150 Suresnes   Suresnes/Carnot/52
+393   16 Rue Charles de Gaulle, 94140 Alfortville   Alfortville/Charles de Gaulle/16
+394   33 Rue de la Tuilerie, 92150 Suresnes   Suresnes/Tuilerie/33
+395   58 Rue Saint Placide, 75006 Paris   Paris/Saint Placide/58
+396   9 Boulevard Raspail, 75007 Paris   Paris/Raspail/9
+397   6 Rue de Metz, 75010 Paris   Paris/Metz/6
+398   1 Rue Rigault, 92000 Nanterre   Nanterre/Rigault/1
+399   2 Rue Duroc, 75007 Paris   Paris/Duroc/2
+400   21 Boulevard des Invalides, 75007 Paris   Paris/Invalides/21
+401   1 Rue Dieumegard, 93400 Saint-Ouen   Saint-Ouen/Dieumegard/1
+402   1 Rue du Moutier, 93400 Saint-Ouen   Saint-Ouen/Moutier/1
+403   7 Avenue Audra, 92700 Colombes   Colombes/Audra/7
+404   28 Avenue du Maréchal Joffre, 92000 Nanterre   Nanterre/Maréchal Joffre/28
+405   2 Rue des Entrepôts, 93400 Saint-Ouen   Saint-Ouen/Entrepôts/2
+406   326 Avenue de la République, 92000 Nanterre   Nanterre/République/326
+407   21 Quai de la Tournelle, 75005 Paris   Paris/Tournelle/21
+408   6 Rue des Bas, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Bas/6
+409   6 Place Cyrano de Bergerac, 92290 Châtenay-Malabry   Châtenay-Malabry/Cyrano de Bergerac/6
+410   140 Avenue de la République, 92320 Châtillon   Châtillon/République/140
+411   1 Rue Georges Corete, 92230 Gennevilliers   Gennevilliers/Georges Corete/1
+412   13 Rue de l'Union, 92000 Nanterre   Nanterre/Union/13
+413   13 Rue des Peupliers, 92000 Nanterre   Nanterre/Peupliers/13
+414   19 rue Tronchet, 75008 Paris   Paris/Tronchet/19
+415   1 rue Lafontaine, 93400 Saint-Ouen   Saint-Ouen/Lafontaine/1
+416   19 rue des Écoles, 75005 Paris   Paris/Écoles/19
+417   3 rue de Vaugirard, 75006 Paris   Paris/Vaugirard/3
+418   51 avenue Raymond Poincaré, 75016 Paris   Paris/Raymond Poincaré/51
+419   12 rue Chernoviz, 75016 Paris   Paris/Chernoviz/12
+420   8 rue Rémusat, 75016 Paris   Paris/Rémusat/8
+421   28 avenue de Niel, 75017 Paris   Paris/Niel/28
+422   67 avenue de Saint Ouen, 75017 Paris   Paris/Saint Ouen/67
+423   45 rue Custine, 75018 Paris   Paris/Custine/45
+424   28 rue Championnet, 75018 Paris   Paris/Championnet/28
+425   150 rue Marcadet, 75018 Paris   Paris/Marcadet/150
+426   7 rue Marcadet, 75018 Paris   Paris/Marcadet/7
+427   2 rue Jean Cocteau, 75018 Paris   Paris/Jean Cocteau/2
+428   169 avenue Gabriel Péri, 92230 Gennevilliers   Gennevilliers/Gabriel Péri/169
+429   66 rue Gay-Lussac, 75005 Paris   Paris/Gay-Lussac/66
+430   10 rue de la Verrerie, 92190 Meudon   Meudon/Verrerie/10
+431   29 avenue des Champs Pierreux, 92000 Nanterre   Nanterre/Champs Pierreux/29
+432   30 rue du Maréchal Joffre, 92700 Colombes   Colombes/Maréchal Joffre/30
+433   7 rue Paul Painlevé, 75005 Paris   Paris/Paul Painlevé/7
+434   23 rue des Bernardins, 75005 Paris   Paris/Bernardins/23
+435   2 rue de Fleurus, 75006 Paris   Paris/Fleurus/2
+436   4 rue de Constantinople, 75008 Paris   Paris/Constantinople/4
+437   62 rue Pierre Charron, 75008 Paris   Paris/Pierre Charron/62
+438   280 avenue Jean Jaurès, 92290 Châtenay-Malabry   Châtenay-Malabry/Jean Jaurès/280
+440   145 avenue du Général Leclerc, 94700 Maisons-Alfort   Maisons-Alfort/Leclerc/145
+441   19 rue Dalayrac, 75002 Paris   Paris/Dalayrac/19
+442   1 place Charles de Gaulle, 92410 Ville-d'Avray   Ville-d'Avray/Charles de Gaulle/1
+443   17 Rue des Luaps Prolongée, 92000 Nanterre   Nanterre/Luaps/17
+444   6 rue de Paris, 92190 Meudon   Meudon/Paris/6
+445   67 rue Louis Blanc, 75010 Paris   Paris/Louis Blanc/67
+446   52 rue de Château Landon, 75010 Paris   Paris/Château Landon/52
+447   1 avenue Philippe Auguste, 75011 Paris   Paris/Philippe Auguste/1
+448   104 avenue Ledru Rollin, 75011 Paris   Paris/Ledru Rollin/104
+449   157 rue Jeanne D'Arc, 75013 Paris   Paris/Jeanne D'Arc/157
+450   6 rue Guébriant, 75020 Paris   Paris/Guébriant/6
+451   65 cours de Vincennes, 75020 Paris   Paris/Vincennes/65
+452   231 rue des Pyrénées, 75020 Paris   Paris/Pyrénées/231
+453   158 boulevard de Charonne, 75020 Paris   Paris/Charonne/158
+454   5 rue Frédéric Loliée, 75020 Paris   Paris/Frédéric Loliée/5
+455   14 rue Sorbier, 75020 Paris   Paris/Sorbier/14
+456   59 boulevard Gallieni, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Gallieni/59
+457   9 rue Ernest Renan, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Ernest Renan/9
+458   12 rue Marcel Allégot, 92190 Meudon   Meudon/Marcel Allégot/12
+459   8 rue Waldeck Rochet, 92000 Nanterre   Nanterre/Waldeck Rochet/8
+460   19 rue de Suresnes, 92000 Nanterre   Nanterre/Suresnes/19
+461   126 rue d'Aubervilliers, 75019 Paris   Paris/Aubervilliers/126
+462   169 avenue de Flandre, 75019 Paris   Paris/Flandre/169
+463   41 rue de Tolbiac, 75013 Paris   Paris/Tolbiac/41
+464   10 rue du Quatre septembre, 75002 Paris   Paris/Quatre septembre/10
+465   25 rue Henri Barbusse, 75005 Paris   Paris/Henri Barbusse/25
+466   4 rue Turgot, 75009 Paris   Paris/Turgot/4
+467   1 rue Jules Lefèbvre, 75009 Paris   Paris/Jules Lefèbvre/1
+468   157 rue Saint-Maur, 75011 Paris   Paris/Saint-Maur/157
+469   33 rue Crozatier, 75012 Paris   Paris/Crozatier/33
+470   137 boulevard Soult, 75012 Paris   Paris/Soult/137
+471   94 avenue de Saint-Mandé, 75012 Paris   Paris/Saint-Mandé/94
+472   7 rue de Pommard, 75012 Paris   Paris/Pommard/7
+473   6 rue Paulin Enfert, 75013 Paris   Paris/Paulin Enfert/6
+474   4 avenue de la Sœur Rosalie, 75013 Paris   Paris/Sœur Rosalie/4
+475   3 avenue d'Ivry, 75013 Paris   Paris/Ivry/3
+476   15 bis rue de Tolbiac, 75013 Paris   Paris/Tolbiac/15
+477   71 rue Froidevaux, 75014 Paris   Paris/Froidevaux/71
+478   11 avenue Georges Lafenestre, 75014 Paris   Paris/Georges Lafenestre/11
+479   7 rue Nicolas Taunay, 75014 Paris   Paris/Nicolas Taunay/7
+480   29 rue du Cotentin, 75015 Paris   Paris/Cotentin/29
+481   81 avenue de la Grande Armée, 75016 Paris   Paris/Grande Armée/81
+482   42 bis avenue Georges Mandel, 75016 Paris   Paris/Georges Mandel/42
+483   1 avenue Georges Mandel, 75016 Paris   Paris/Georges Mandel/1
+484   35 rue Mathis, 75019 Paris   Paris/Mathis/35
+485   38 rue d'Aubervilliers, 75019 Paris   Paris/Aubervilliers/38
+486   6 avenue de Flandre, 75019 Paris   Paris/Flandre/6
+487   1 rue des Bois, 75019 Paris   Paris/Bois/1
+488   44 avenue Secrétan, 75019 Paris   Paris/Secrétan/44
+489   348 rue d'Estienne d'Orves, 92700 Colombes   Colombes/Estienne d'Orves/348
+490   335 rue Gabriel Péri, 92700 Colombes   Colombes/Gabriel Péri/335
+491   7 rue Félix Faure, 92700 Colombes   Colombes/Félix Faure/7
+492   42 rue Pierre Brossolette, 92700 Colombes   Colombes/Pierre Brossolette/42
+493   19 avenue du Général de Gaulle, 92190 Meudon   Meudon/De Gaulle/19
+494   21 avenue Jean Jaurès, 92150 Suresnes   Suresnes/Jean Jaurès/21
+495   37 avenue Georges Pompidou, 92150 Suresnes   Suresnes/Georges Pompidou/37
+496   125 rue Diderot, 93700 Drancy   Drancy/Diderot/125
+497   19 rue Léon Renault, 93260 Les Lilas   Les Lilas/Léon Renault/19
+498   32 boulevard Jean-Baptiste Oudry, 94000 Créteil   Créteil/Jean-Baptiste Oudry/32
+499   63 rue Lecourbe, 75015 Paris   Paris/Lecourbe/63
+500   24 rue de la Paix, 75002 Paris   Paris/Paix/24
+501   243 rue Saint Martin, 75003 Paris   Paris/Saint Martin/243
+502   27 rue Pastourelle, 75003 Paris   Paris/Pastourelle/27
+503   27 rue Geoffroy-Saint-Hilaire, 75005 Paris   Paris/Geoffroy-Saint-Hilaire/27
+504   18 rue Linné, 75005 Paris   Paris/Linné/18
+505   2 bis rue Valette, 75005 Paris   Paris/Valette/2
+506   6 rue Michelet, 75006 Paris   Paris/Michelet/6
+507   38 rue du Four, 75006 Paris   Paris/Four/38
+508   142 rue du Bac, 75007 Paris   Paris/Bac/142
+509   7 rue La Fayette, 75009 Paris   Paris/La Fayette/7
+510   21 rue Fernand Braudel, 75013 Paris   Paris/Fernand Braudel/21
+511   79 rue du Chevaleret, 75013 Paris   Paris/Chevaleret/79
+512   59 avenue Reille, 75014 Paris   Paris/Reille/59
+513   10 rue de la Fédération, 75015 Paris   Paris/Fédération/10
+514   78 avenue de Suffren, 75015 Paris   Paris/Suffren/78
+515   11 rue Gerbert, 75015 Paris   Paris/Gerbert/11
+516   43 rue du Docteur Finlay, 75015 Paris   Paris/Finlay/43
+517   68 avenue Mozart, 75016 Paris   Paris/Mozart/68
+518   89 avenue Kléber, 75016 Paris   Paris/Kléber/89
+519   42 rue Jean de la Fontaine, 75016 Paris   Paris/Jean de la Fontaine/42
+520   98 boulevard Murat, 75016 Paris   Paris/Murat/98
+521   73 avenue des Ternes, 75017 Paris   Paris/Ternes/73
+522   12 place du Général Koënig, 75017 Paris   Paris/Koënig/12
+523   162 rue Championnet, 75018 Paris   Paris/Championnet/162
+524   17 rue Caulaincourt, 75018 Paris   Paris/Caulaincourt/17
+525   1 rue de Verdun, 92140 Clamart   Clamart/Verdun/1
+526   135 avenue de Verdun, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Verdun/135
+527   16 rue Guynemer, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Guynemer/16
+528   2 avenue du Président Wilson, 92240 Malakoff   Malakoff/Wilson/2
+529   120 boulevard Gabriel Péri, 92240 Malakoff   Malakoff/Gabriel Péri/120
+530   5 avenue des Guilleraies, 92000 Nanterre   Nanterre/Guilleraies/5
+531   123 Rue Salvador Allende, 92000 Nanterre   Nanterre/Salvador Allende/123
+532   42 rue Gardenat Lapostol, 92150 Suresnes   Suresnes/Gardenat Lapostol/42
+533   9 rue René Sahors, 92170 Vanves   Vanves/René Sahors/9
+534   124 avenue Pasteur, 93170 Bagnolet   Bagnolet/Pasteur/124
+535   60 rue Edouard Vaillant, 93170 Bagnolet   Bagnolet/Edouard Vaillant/60
+536   100 rue de la Commune de Paris, 93230 Romainville   Romainville/Commune de Paris/100
+537   9 place de l'Hôtel de Ville, 75004 Paris   Paris/Hôtel de Ville/9
+538   27 rue des Francs Bourgeois, 75004 Paris   Paris/Francs Bourgeois/27
+539   19 rue Simone Weil, 75013 Paris   Paris/Simone Weil/19
+540   96 avenue de la Division Leclerc, 93350 Le Bourget   Le Bourget/Division Leclerc/96
+541   12 avenue Jean Jaurès, 93700 Drancy   Drancy/Jean Jaurès/12
+542   58 avenue de la République, 93170 Bagnolet   Bagnolet/République/58
+543   2 boulevard Edgar Quinet, 75014 Paris   Paris/Edgar Quinet/2
+544   45 rue de l'Évangile, 75018 Paris   Paris/Évangile/45
+545   16 rue de Botzaris, 75019 Paris   Paris/Botzaris/16
+546   10 avenue de la Porte d'Aubervilliers, 75019 Paris   Paris/Porte d'Aubervilliers/10
+547   8 avenue Ménelotte, 92700 Colombes   Colombes/Ménelotte/8
+548   88 avenue du Général de Gaulle, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/De Gaulle/88
+549   70 avenue du Général de Gaulle, 94000 Créteil   Créteil/De Gaulle/70
+550   12 rue Denfert Rochereau, 94000 Créteil   Créteil/Denfert Rochereau/12
+551   5 rue de Mesly, 94000 Créteil   Créteil/Mesly/5
+552   2 avenue de l'Épi d’Or, 94800 Villejuif   Villejuif/Épi d'Or/2
+553   26 rue Claude Decaen, 75012 Paris   Paris/Claude Decaen/26
+554   131 rue du Chevaleret, 75013 Paris   Paris/Chevaleret/131
+555   11 avenue René Coty, 75014 Paris   Paris/René Coty/11
+556   116 rue Sadi Carnot, 93700 Drancy   Drancy/Sadi Carnot/116
+557   17 boulevard Saint-Martin, 75003 Paris   Paris/Saint-Martin/17
+558   2 rue Neuve Saint-Pierre, 75004 Paris   Paris/Neuve Saint-Pierre/2
+559   20 boulevard de la Bastille, 75012 Paris   Paris/Bastille/20
+560   1 rue Françoise Dolto, 75013 Paris   Paris/Françoise Dolto/1
+561   29 avenue de la Sibelle, 75014 Paris   Paris/Sibelle/29
+562   12 rue Larmeroux, 92170 Vanves   Vanves/Larmeroux/12
+563   101 rue Jean Jaurès, 92170 Vanves   Vanves/Jean Jaurès/101
+564   118 rue Houdan, 92330 Sceaux   Sceaux/Houdan/118
+565   113 boulevard Malesherbes, 75008 Paris   Paris/Malesherbes/113
+566   127 rue de Verdun, 92220 Bagneux   Bagneux/Verdun/127
+567   1 rue des Nonnains d'Hyères, 75004 Paris   Paris/Nonnains d'Hyères/1
+568   136 boulevard Raspail, 75006 Paris   Paris/Raspail/136
+569   55 avenue de Ségur, 75007 Paris   Paris/Ségur/55
+570   10 rue Guy Patin, 75010 Paris   Paris/Guy Patin/10
+571   125 bis avenue Parmentier, 75011 Paris   Paris/Parmentier/125
+572   86 avenue de la République, 75011 Paris   Paris/République/86
+573   26 rue Berbier du Mets, 75013 Paris   Paris/Berbier du Mets/26
+574   12 rue Darmesteter, 75013 Paris   Paris/Darmesteter/12
+575   10 rue Castagnou, 75014 Paris   Paris/Castagnou/10
+576   54 rue Héricart, 75015 Paris   Paris/Héricart/54
+577   21 rue Miollis, 75015 Paris   Paris/Miollis/21
+578   22 place Charles Fillion, 75017 Paris   Paris/Charles Fillion/22
+579   19 avenue de Saint-Ouen, 75017 Paris   Paris/Saint-Ouen/19
+580   3 rue Harpignies, 75020 Paris   Paris/Harpignies/3
+581   52 boulevard de Charonne, 75020 Paris   Paris/Charonne/52
+582   22 rue de Normandie, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Normandie/22
+583   11 rue Henri Say, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Henri Say/11
+584   33 route du Pavé des Gardes, 92370 Chaville   Chaville/Pavé des Gardes/33
+585   3 bis rue Terre Neuve, 92190 Meudon   Meudon/Terre Neuve/3
+586   1 avenue de Bois Préau, 92500 Rueil-Malmaison   Rueil-Malmaison/Bois Préau/1
+587   174 route de l'Empereur, 92500 Rueil-Malmaison   Rueil-Malmaison/Empereur/174
+588   63 avenue du 18 juin 1940, 92500 Rueil-Malmaison   Rueil-Malmaison/18 juin 1940/63
+589   1 allée Saint-Exupéry, 92390 Villeneuve-la-Garenne   Villeneuve-la-Garenne/Saint-Exupéry/1
+590   33 avenue du Général de Gaulle, 93170 Bagnolet   Bagnolet/De Gaulle/33
+591   10 avenue Élise Deroche, 93350 Le Bourget   Le Bourget/Élise Deroche/10
+592   40 avenue Pierre Kerautret, 93230 Romainville   Romainville/Pierre Kerautret/40
+593   51 avenue Karl Marx, 94800 Villejuif   Villejuif/Karl Marx/51
+594   71 rue Marx Dormoy, 92260 Fontenay-aux-Roses   Fontenay-aux-Roses/Marx Dormoy/71
+595   3 rue Jean Veber, 75020 Paris   Paris/Jean Veber/3
+596   32 boulevard des Invalides, 75007 Paris   Paris/Invalides/32
+597   133 rue Saint Jacques, 75005 Paris   Paris/Saint Jacques/133
+598   116 rue de Reuilly, 75012 Paris   Paris/Reuilly/116
+599   42 rue Charles Moureu, 75013 Paris   Paris/Charles Moureu/42
+600   14 rue Jouffroy d'Abbans, 75017 Paris   Paris/Jouffroy d'Abbans/14
+601   15 avenue du Général Laperrine, 75012 Paris   Paris/Laperrine/15
+602   1 avenue Rachel, 75018 Paris   Paris/Rachel/1
+603   12 rue Henri Sainte-Claire Déville, 92500 Rueil-Malmaison   Rueil-Malmaison/Henri Sainte-Claire Déville/12
+604   8 avenue Édouard Belin, 92500 Rueil-Malmaison   Rueil-Malmaison/Édouard Belin/8
+605   3 place Richelieu, 92500 Rueil-Malmaison   Rueil-Malmaison/Richelieu/3
+606   9 boulevard Bourdon, 75004 Paris   Paris/Bourdon/9
+607   2 rue de Martignac, 75007 Paris   Paris/Martignac/2
+608   1 avenue Dutuit, 75008 Paris   Paris/Dutuit/1
+609   47 rue de la Grange aux Belles, 75010 Paris   Paris/Grange aux Belles/47
+610   120 boulevard Auguste Blanqui, 75013 Paris   Paris/Auguste Blanqui/120
+611   66 rue Henri Barbusse, 75014 Paris   Paris/Henri Barbusse/66
+612   44 rue Paul Barruel, 75015 Paris   Paris/Paul Barruel/44
+613   4 rue Émile Reynaud, 75019 Paris   Paris/Émile Reynaud/4
+614   22 rue de Lorraine, 75019 Paris   Paris/Lorraine/22
+615   8 rue Adolphe Mille, 75019 Paris   Paris/Adolphe Mille/8
+616   5 boulevard de Stalingrad, 92320 Châtillon   Châtillon/Stalingrad/5
+617   3 rue Jean Jaurès, 92260 Fontenay-aux-Roses   Fontenay-aux-Roses/Jean Jaurès/3
+618   31 avenue de la Division Leclerc, 92260 Fontenay-aux-Roses   Fontenay-aux-Roses/Division Leclerc/31
+619   27 boulevard de Stalingrad, 92240 Malakoff   Malakoff/Stalingrad/27
+620   5 boulevard Vincent Raspail, 92000 Nanterre   Nanterre/Vincent Raspail/5
+621   98 avenue Albert 1er, 92500 Rueil-Malmaison   Rueil-Malmaison/Albert 1er/98
+622   6 avenue des Ternes, 75017 Paris   Paris/Ternes/6
+623   95 rue des Morillons, 75015 Paris   Paris/Morillons/95
+624   2 rue des Mathurins, 92220 Bagneux   Bagneux/Mathurins/2
+625   3 avenue Paul Doumer, 92500 Rueil-Malmaison   Rueil-Malmaison/Paul Doumer/3
+626   67 rue Mademoiselle, 75015 Paris   Paris/Mademoiselle/67
+627   43 avenue de la République, 92120 Montrouge   Montrouge/République/43
+628   28 rue d'Aumale, 75009 Paris   Paris/Aumale/28
+629   50 boulevard de la Bastille, 75012 Paris   Paris/Bastille/50
+630   130 rue de la Porte de Trivaux, 92140 Clamart   Clamart/Porte de Trivaux/130
+631   233 avenue Général De Gaulle, 92140 Clamart   Clamart/De Gaulle/233
+632   7 rue du Colonel Driant, 75001 Paris   Paris/Colonel Driant/7
+633   1 place Saint Gervais, 75004 Paris   Paris/Saint Gervais/1
+634   15 boulevard Mortier, 75020 Paris   Paris/Mortier/15
+635   26 rue Huché, 92150 Suresnes   Suresnes/Huché/26
+636   249 avenue Gambetta, 75020 Paris   Paris/Gambetta/249
+637   245 boulevard Jean Jaurès, 92100 Boulogne-Billancourt   Boulogne-Billancourt/Jean Jaurès/245
+638   3 rue Roger Salengro, 93700 Drancy   Drancy/Roger Salengro/3
+639   188 boulevard Saint-Germain, 75007 Paris   Paris/Saint-Germain/188
+640   77 rue Jules Michelet, 92700 Colombes   Colombes/Jules Michelet/77
+641   52 rue de Seine, 92700 Colombes   Colombes/Seine/52
+642   2 avenue de la Porte de Charenton, 75012 Paris   Paris/Porte de Charenton/2
+643   4 rue Pouchet, 75017 Paris   Paris/Pouchet/4
+644   5 avenue de l'Europe, 92700 Colombes   Colombes/Europe/5
+645   7 rue Nouvelle, 93700 Drancy   Drancy/Nouvelle/7
+646   76 rue de la Victoire, 75009 Paris   Paris/Victoire/76
+647   18 rue Madame, 75006 Paris   Paris/Madame/18
+648   3 rue de Bérite, 75006 Paris   Paris/Bérite/3
+649   14 rue Lavoisier, 92000 Nanterre   Nanterre/Lavoisier/14
+650   90 boulevard National, 92250 La Garenne-Colombes   La Garenne-Colombes/National/90
+651   34 avenue du Cimetière Parisien, 93500 Pantin   Pantin/Cimetière Parisien/34
+652   1 avenue Anatole France, 93500 Pantin   Pantin/Anatole France/1
+653   15 rue Joseph Bara, 75006 Paris   Paris/Joseph Bara/15
+654   137 rue de la Bourcillière, 92140 Clamart   Clamart/Bourcillière/137
+655   16 rue Claude Bernard, 75005 Paris   Paris/Claude Bernard/16
+656   10 rue Jean Nicot, 75007 Paris   Paris/Jean Nicot/10
+657   63 avenue d'Iéna, 75016 Paris   Paris/Iéna/63
+658   68 rue Paul Vaillant Couturier, 92140 Clamart   Clamart/Paul Vaillant Couturier/68
+660   76 avenue de Verdun, 92320 Châtillon   Châtillon/Verdun/76
+661   16 rue de l'Arrivée, 75015 Paris   Paris/Arrivée/16
+662   2 rue Mayet, 75006 Paris   Paris/Mayet/2
+663   36 rue du Temple, 75004 Paris   Paris/Temple/36
+664   79 rue de Lourmel, 75015 Paris   Paris/Lourmel/79
+665   9 boulevard Paul Vaillant Couturier, 94800 Villejuif   Villejuif/Paul Vaillant Couturier/9
+666   204 rue Saint-Martin, 75003 Paris   Paris/Saint-Martin/204
+667   6 rue Rochambeau, 75009 Paris   Paris/Rochambeau/6
+668   1 rue d'Uzès, 75002 Paris   Paris/Uzès/1
+669   185 avenue du Maine, 75014 Paris   Paris/Maine/185
+670   49 avenue de l'Arche, 92400 Courbevoie   Courbevoie/Arche/49
+671   87 boulevard Beaumarchais, 75003 Paris   Paris/Beaumarchais/87
+672   37 rue de Dantzig, 75015 Paris   Paris/Dantzig/37
+673   5 rue Jacques Callot, 75006 Paris   Paris/Jacques Callot/5
+674   16 avenue Léon Blum, 94700 Maisons-Alfort   Maisons-Alfort/Léon Blum/16
+675   27 rue Magellan, 94000 Créteil   Créteil/Magellan/27
+676   44 avenue de la Marne, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Marne/44
+677   221 rue Saint-Jacques, 75005 Paris   Paris/Saint-Jacques/221
+678   74 rue Vasco de Gama, 75015 Paris   Paris/Vasco de Gama/74
+679   118 avenue du Général De Gaulle, 92140 Clamart   Clamart/De Gaulle/118
+680   31 boulevard National, 92250 La Garenne-Colombes   La Garenne-Colombes/National/31
+681   7 rue d'Alexandrie, 75002 Paris   Paris/Alexandrie/7
+682   2 rue du Commandant Lamy, 75011 Paris   Paris/Commandant Lamy/2
+683   31 rue du Louvre, 75002 Paris   Paris/Louvre/31
+684   4 rue de Colombes, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Colombes/4
+685   49 avenue de Stalingrad, 93170 Bagnolet   Bagnolet/Stalingrad/49
+686   1 rue de Schomberg, 75004 Paris   Paris/Schomberg/1
+687   162 rue de la Roquette, 75011 Paris   Paris/Roquette/162
+688   5 avenue de la République, 75011 Paris   Paris/République/5
+689   36 rue Saint-Maur, 75011 Paris   Paris/Saint-Maur/36
+690   2 rue Paul Escudier, 75009 Paris   Paris/Paul Escudier/2
+691   11 avenue Daumesnil, 94160 Saint-Mandé   Saint-Mandé/Daumesnil/11
+692   1 rue Fernand Labori, 75018 Paris   Paris/Fernand Labori/1
+693   1 rue Jean-François Lépine, 75018 Paris   Paris/Jean-François Lépine/1
+694   52 rue Charles Hermite, 75018 Paris   Paris/Charles Hermite/52
+695   80 rue Didot, 75014 Paris   Paris/Didot/80
+696   23 rue du Départ, 75014 Paris   Paris/Départ/23
+697   86 rue Pelleport, 75020 Paris   Paris/Pelleport/86
+698   22 bis rue Legendre, 75017 Paris   Paris/Legendre/22
+699   55 boulevard de la Villette, 75010 Paris   Paris/Villette/55
+700   36 Boulevard Richard Lenoir, 75011 Paris   Paris/Richard Lenoir/36
+701   8 rue Goubet, 75019 Paris   Paris/Goubet/8
+702   80 rue François Miron, 75004 Paris   Paris/François Miron/80
+703   8 rue Danton, 75006 Paris   Paris/Danton/8
+704   1 place du Bachaga Boualam, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Bachaga Boualam/1
+705   21 rue Paul Bert, 94110 Arcueil   Arcueil/Paul Bert/21
+706   2 rue du Charolais, 75012 Paris   Paris/Charolais/2
+707   7 boulevard d'Algérie, 75019 Paris   Paris/Algérie/7
+708   52 boulevard Arago, 75013 Paris   Paris/Arago/52
+709   73 rue Marcelin Berthelot, 93700 Drancy   Drancy/Marcelin Berthelot/73
+710   15 rue Olier, 75015 Paris   Paris/Olier/15
+711   41 avenue de Verdun, 92250 La Garenne-Colombes   La Garenne-Colombes/Verdun/41
+712   175 avenue du 18 Juin 1940, 92500 Rueil-Malmaison   Rueil-Malmaison/18 Juin 1940/175
+713   52 rue Arago, 92800 Puteaux   Puteaux/Arago/52
+714   40 rue de Meudon, 92100 Boulogne-Billancourt   Boulogne-Billancourt/Meudon/40
+715   35 quai Alphonse Le Gallo, 92100 Boulogne-Billancourt   Boulogne-Billancourt/Alphonse Le Gallo/35
+716   6 place Abel Gance, 92100 Boulogne-Billancourt   Boulogne-Billancourt/Abel Gance/6
+718   21 boulevard Bonne Nouvelle, 75002 Paris   Paris/Bonne Nouvelle/21
+719   13 rue Malher, 75004 Paris   Paris/Malher/13
+720   37 rue la Boétie, 75008 Paris   Paris/La Boétie/37
+721   2 avenue Matignon, 75008 Paris   Paris/Matignon/2
+722   24 rue de Liège, 75008 Paris   Paris/Liège/24
+723   38 rue François 1er, 75008 Paris   Paris/François 1er/38
+724   97 boulevard de Port-Royal, 75014 Paris   Paris/Port-Royal/97
+725   83 boulevard Flandrin, 75016 Paris   Paris/Flandrin/83
+726   50 rue Botzaris, 75019 Paris   Paris/Botzaris/50
+727   265 rue de Belleville, 75020 Paris   Paris/Belleville/265
+729   18 avenue du Maréchal Juin, 92360 Meudon-la-Forêt   Meudon/Maréchal Juin/18
+730   3 rue Jeanne Braconnier, 92360 Meudon-la-Forêt   Meudon/Jeanne Braconnier/3
+731   126 rue de Colombes, 92250 La Garenne-Colombes   La Garenne-Colombes/Colombes/126
+732   6 rue Charles et Robert, 75020 Paris   Paris/Charles et Robert/6
+733   1 rue du Pré Saint Gervais, 93500 Pantin   Pantin/Pré Saint Gervais/1
+734   1 rue Pierre Brossolette, 75005 Paris   Paris/Pierre Brossolette/1
+735   39 rue Julien Lacroix, 75020 Paris   Paris/Julien Lacroix/39
+736   143 boulevard Vincent Auriol, 75013 Paris   Paris/Vincent Auriol/143
+737   21 bis rue Notre-Dame des Victoires, 75002 Paris   Paris/Notre-Dame des Victoires/21
+738   116 rue Réaumur, 75002 Paris   Paris/Réaumur/116
+739   47 rue Navier, 75017 Paris   Paris/Navier/47
+740   11 rue Eugène Varlin, 94800 Villejuif   Villejuif/Eugène Varlin/11
+741   12 rue Milton, 75009 Paris   Paris/Milton/12
+742   137 avenue Jean Jaurès, 92140 Clamart   Clamart/Jean Jaurès/137
+743   139 boulevard de Grenelle, 75015 Paris   Paris/Grenelle/139
+744   1 allée Parc Lagravère, 92700 Colombes   Colombes/Parc Lagravère/1
+745   47 boulevard de l'Hôpital, 75013 Paris   Paris/Hôpital/47
+746   29 rue Saint Stenay, 93700 Drancy   Drancy/Saint Stenay/29
+747   192 avenue Pierre Brossolette, 92240 Malakoff   Malakoff/Pierre Brossolette/192
+748   24 rue Monte Cristo, 75020 Paris   Paris/Monte Cristo/24
+749   1 rue Pierre Chausson, 75010 Paris   Paris/Pierre Chausson/1
+750   15 rue Rocroy, 75010 Paris   Paris/Rocroy/15
+751   3 place Charras, 92400 Courbevoie   Courbevoie/Charras/3
+752   3 Rue Saint Roch, 75001 Paris   Paris/Saint Roch/3
+753   121 avenue André Morizet, 92100 Boulogne-Billancourt   Boulogne-Billancourt/André Morizet/121
+754   5 avenue Jean Jaurès, 93110 Rosny-sous-Bois   Rosny-sous-Bois/Jean Jaurès/5
+755   8 rue de Rome, 93110 Rosny-sous-Bois   Rosny-sous-Bois/Rome/8
+756   28 rue Édouard Vaillant, 93400 Saint-Ouen   Saint-Ouen/Édouard Vaillant/28
+757   44 avenue du Capitaine Glarner, 93400 Saint-Ouen   Saint-Ouen/Capitaine Glarner/44
+758   2 boulevard Pesaro, 92000 Nanterre   Nanterre/Pesaro/2
+759   16 rue de Lisbonne, 93110 Rosny-sous-Bois   Rosny-sous-Bois/Lisbonne/16
+760   155 bis rue de Rennes, 75006 Paris   Paris/Rennes/155
+762   10 rue Léon Blum, 93110 Rosny-sous-Bois   Rosny-sous-Bois/Léon Blum/10
+763   4 rue Claude-Nicolas Ledoux, 94000 Créteil   Créteil/Claude-Nicolas Ledoux/4
+764   1 avenue Émile Laurent, 75012 Paris   Paris/Émile Laurent/1
+765   25 rue de la Plaine, 75020 Paris   Paris/Plaine/25
+766   1 rue Claude Pernès, 93110 Rosny-sous-Bois   Rosny-sous-Bois/Claude Pernès/1
+767   2 rue Ponceau, 92190 Meudon   Meudon/Ponceau/2
+768   260 avenue Napoléon Bonaparte, 92500 Rueil-Malmaison   Rueil-Malmaison/Napoléon Bonaparte/260
+769   2 rue Henri Martin, 92100 Boulogne-Billancourt   Boulogne-Billancourt/Henri Martin/2
+770   1 rue Charles Péguy, 92150 Suresnes   Suresnes/Charles Péguy/1
+771   11 rue d'Artois, 75008 Paris   Paris/Artois/11
+772   6 rue de Londres, 75009 Paris   Paris/Londres/6
+773   61 avenue du Général De Gaulle, 94000 Créteil   Créteil/De Gaulle/61
+774   1 place de Finlande, 92700 Colombes   Colombes/Finlande/1
+775   166 promenade du Verger, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Promenade du Verger/166
+776   26 villa Croix-Nivert, 75015 Paris   Paris/Villa Croix-Nivert/26
+777   8 rue Louise Michel, 92300 Levallois-Perret   Levallois-Perret/Louise Michel/8
+778   29 rue d'Alsace, 92300 Levallois-Perret   Levallois-Perret/Alsace/29
+779   80 bis rue du président Wilson, 92300 Levallois-Perret   Levallois-Perret/Wilson/80
+780   21 rue Pierre Brossolette, 92300 Levallois-Perret   Levallois-Perret/Pierre Brossolette/21
+781   1 Place Georges Pompidou, 92300 Levallois-Perret   Levallois-Perret/Georges Pompidou/1
+782   26 boulevard Gouvion Saint-Cyr, 75017 Paris   Paris/Gouvion Saint-Cyr/26
+786   41 rue Didot, 75014 Paris   Paris/Didot/41
+787   21 avenue de la Fontaine du Tertre, 92150 Suresnes   Suresnes/Fontaine du Tertre/21
+788   55 avenue de Valenton, 94450 Limeil-Brévannes   Limeil-Brévannes/Valenton/55
+789   12 rue Lavoisier, 94450 Limeil-Brévannes   Limeil-Brévannes/Lavoisier/12
+790   2 rue Pétrarque, 75016 Paris   Paris/Pétrarque/2
+792   1 rue Boulard, 75014 Paris   Paris/Boulard/1
+793   81 avenue Édouard Vaillant, 92100 Boulogne-Billancourt   Boulogne-Billancourt/Édouard Vaillant/81
+794   80 rue de Sèvres, 92100 Boulogne-Billancourt   Boulogne-Billancourt/Sèvres/80
+795   33 rue Ernest Cognacq, 92300 Levallois-Perret   Levallois-Perret/Ernest Cognacq/33
+797   37 rue du Président Wilson, 92300 Levallois-Perret   Levallois-Perret/Wilson/37
+798   141 rue Lecourbe, 75015 Paris   Paris/Lecourbe/141
+799   37 rue Leblanc, 75015 Paris   Paris/Leblanc/37
+800   21 Rue Abel Gance, 75013 Paris   Paris/Abel Gance/21
+801   178 avenue de Versailles, 75016 Paris   Paris/Versailles/178
+802   29 quai Austerlitz, 75013 Paris   Paris/Austerlitz/29
+803   81 rue Falguière, 75015 Paris   Paris/Falguière/81
+804   6 avenue Foch, 75016 Paris   Paris/Foch/6
+805   38 avenue des Ternes, 75017 Paris   Paris/Ternes/38
+806   15 rue du Commandant René Mouchotte, 75014 Paris   Paris/Commandant René Mouchotte/15
+807   120 boulevard du Montparnasse, 75014 Paris   Paris/Montparnasse/120
+808   1 avenue du Général Sarrail, 75016 Paris   Paris/Sarrail/1
+809   65 boulevard de Picpus, 75012 Paris   Paris/Picpus/65
+810   2 avenue Gabriel, 75008 Paris   Paris/Gabriel/2
+811   17 avenue de la Porte de Saint-Ouen, 75017 Paris   Paris/Porte de Saint-Ouen/17
+812   2 avenue de la Porte Saint-Cloud, 75016 Paris   Paris/Porte Saint-Cloud/2
+813   8 rue Rochambeau, 75009 Paris   Paris/Rochambeau/8
+814   103 avenue des Champs Elysées, 75008 Paris   Paris/Champs Elysées/103
+815   16 rue de Laborde, 75008 Paris   Paris/Laborde/16
+816   15 rue des Pyramides, 75001 Paris   Paris/Pyramides/15
+817   168 bis rue Cardinet, 75017 Paris   Paris/Cardinet/168
+818   31 avenue Pierre de Coubertin, 75013 Paris   Paris/Pierre de Coubertin/31
+819   54 avenue de Saxe, 75007 Paris   Paris/Saxe/54
+820   31 boulevard de Grenelle, 75015 Paris   Paris/Grenelle/31
+821   1 boulevard Garibaldi, 75015 Paris   Paris/Garibaldi/1
+822   61 boulevard Saint-Jacques, 75014 Paris   Paris/Saint-Jacques/61
+823   69 boulevard Pasteur, 75015 Paris   Paris/Pasteur/69
+824   40 boulevard Victor, 75015 Paris   Paris/Victor/40
+825   7 avenue du Président Kennedy, 75016 Paris   Paris/Kennedy/7
+826   2 place Joffre, 75007 Paris   Paris/Joffre/2
+827   114 boulevard de l'Hopital, 75013 Paris   Paris/Hopital/114
+828   252 bis rue Saint-Martin, 75003 Paris   Paris/Saint-Martin/252
+829   41 boulevard de Rochechouart, 75009 Paris   Paris/Rochechouart/41
+830   206 avenue du Maine, 75014 Paris   Paris/Maine/206
+831   27 boulevard Gallieni, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Gallieni/27
+832   100 boulevard de la LIberté, 92320 Châtillon   Châtillon/Liberté/100
+833   25 rue Constantine, 75007 Paris   Paris/Constantine/25
+834   2 avenue de la République, 92140 Clamart   Clamart/République/2
+835   14 rue Bertin Poirée, 75001 Paris   Paris/Bertin Poirée/14
+836   46 rue Armand Carrel, 75019 Paris   Paris/Armand Carrel/46
+837   51 avenue Jean Jaurès, 92120 Montrouge   Montrouge/Jean Jaurès/51
+838   8 avenue de Choisy, 75013 Paris   Paris/Choisy/8
+839   273 rue du Ménil, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Ménil/273
+840   152 avenue d'Argenteuil, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Argenteuil/152
+841   1 rue Olympe de Gouge, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Olympe de Gouge/1
+842   11 rue Robert Lavergne, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Robert Lavergne/11
+843   21 avenue de Paris, 92320 Châtillon   Châtillon/Paris/21
+844   56 Rue Lacordaire, 75015 Paris   Paris/Lacordaire/56
+845   16 Rue Sofia, 75018 Paris   Paris/Sofia/16
+846   17 Place de la République, 75003 Paris   Paris/République/17
+847   34 Rue Antoine Fratacci, 92170 Vanves   Vanves/Antoine Fratacci/34
+848   70 avenue du Général de Gaulle, 92800 Puteaux   Puteaux/De Gaulle/70
+849   7 Rue Francois 1er, 75008 Paris   Paris/Francois 1er/7
+850   1 Place du 11 Novembre 1918, 92500 Rueil-Malmaison   Rueil-Malmaison/11 Novembre 1918/1
+851   12 bis Route de la Reine, 92100 Boulogne-Billancourt   Boulogne-Billancourt/Reine/12
+852   205 Avenue Georges Clémenceau, 92000 Nanterre   Nanterre/Georges Clémenceau/205
+853   65 Avenue Lenine, 92000 Nanterre   Nanterre/Lenine/65
+854   2 Boulevard de la Paix, 92400 Courbevoie   Courbevoie/Paix/2
+855   5 Boulevard Aimé Césaire, 92000 Nanterre   Nanterre/Aimé Césaire/5
+856   10 Rue des Bruyères, 93260 Les Lilas   Les Lilas/Bruyères/10
+857   6 Rue Marcel Paul, 94800 Villejuif   Villejuif/Marcel Paul/6
+858   30 Rue René Hamon, 94800 Villejuif   Villejuif/René Hamon/30
+859   13 Rue Léon Blum, 92220 Bagneux   Bagneux/Léon Blum/13
+860   2 Rue Fernand Pelloutier, 92800 Puteaux   Puteaux/Fernand Pelloutier/2
+861   61 Boulevard Jean Jaurès, 92100 Boulogne-Billancourt   Boulogne-Billancourt/Jean Jaurès/61
+862   7 Rue Pruvot, 92170 Vanves   Vanves/Pruvot/7
+863   1 Rue de Wolfenbüttel, 92310 Sèvres   Sèvres/Wolfenbüttel/1
+864   81 Avenue de la Division Leclerc, 92290 Châtenay-Malabry   Châtenay-Malabry/Division Leclerc/81
+865   11 Rue Ambroise Paré, 75010 Paris   Paris/Ambroise Paré/11
+866   3 Square Alban Satragne, 75010 Paris   Paris/Square Alban Satragne/3
+867   82 Rue de Passy, 75016 Paris   Paris/Passy/82
+868   36 Quai des Orfèvres, 75001 Paris   Paris/Orfèvres/36
+869   153 Rue Jean Jaurès, 94800 Villejuif   Villejuif/Jean Jaurès/153
+870   11 Rue Auguste Perret, 94800 Villejuif   Villejuif/Auguste Perret/11
+871   236 Avenue Henri Barbusse, 93700 Drancy   Drancy/Henri Barbusse/236
+872   52 Rue des Bons Raisins, 92500 Rueil-Malmaison   Rueil-Malmaison/Bons Raisins/52
+873   21 Rue Charles Drot, 92500 Rueil-Malmaison   Rueil-Malmaison/Charles Drot/21
+874   11 Rue du Lieutenant Colonel Driant, 92500 Rueil-Malmaison   Rueil-Malmaison/Lieutenant Colonel Driant/11
+875   149 Avenue de Paris, 94800 Villejuif   Villejuif/Paris/149
+876   10 rue du Docteur Leray, 75013 Paris   Paris/Leray/10
+877   39 Rue de Verdun, 94140 Alfortville   Alfortville/Verdun/39
+878   42 Rue Victor Hugo, 92700 Colombes   Colombes/Victor Hugo/42
+879   160 Boulevard de Valmy, 92700 Colombes   Colombes/Valmy/160
+880   1bis Avenue Joseph Franceschi, 94140 Alfortville   Alfortville/Joseph Franceschi/1
+881   40 Avenue Victor Hugo, 92140 Clamart   Clamart/Victor Hugo/40
+882   10 Rue Sadi Carnot, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Sadi Carnot/10
+883   84 Rue Cartier Bresson, 93500 Pantin   Pantin/Cartier Bresson/84
+884   16 Cours de Bougainvillées, 92500 Rueil-Malmaison   Rueil-Malmaison/Bougainvillées/16
+885   215 Avenue des Grésillons, 92230 Gennevilliers   Gennevilliers/Grésillons/215
+886   705 Avenue Roger Salengro, 92370 Chaville   Chaville/Roger Salengro/705
+887   2 Rue Jean-Jacques Rousseau, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Jean-Jacques Rousseau/2
+888   1 Rue Riocreux, 92310 Sèvres   Sèvres/Riocreux/1
+890   12 Avenue de la Division Leclerc, 92320 Châtillon   Châtillon/Division Leclerc/12
+891   126 Rue Legendre, 75017 Paris   Paris/Legendre/126
+892   12 Rue Francis de Pressensé, 92800 Puteaux   Puteaux/Francis de Pressensé/12
+893   17 Avenue de Colmar, 92500 Rueil-Malmaison   Rueil-Malmaison/Colmar/17
+894   10 Rue Anizan Cavillon, 93350 Le Bourget   Le Bourget/Anizan Cavillon/10
+895   40 Rue du docteur Variot, 93110 Rosny-sous-Bois   Rosny-sous-Bois/Variot/40
+896   5 Ruelle de Paris, 94450 Limeil-Brévannes   Limeil-Brévannes/Ruelle de Paris/5
+897   144 boulevard Maxime Gorki, 94800 Villejuif   Villejuif/Maxime Gorki/144
+898   5 rue Emile Zola, 94450 Limeil-Brévannes   Limeil-Brévannes/Emile Zola/5
+899   4 Rue Lobau, 75004 Paris   Paris/Lobau/4
+900   67 Rue Dulong, 75017 Paris   Paris/Dulong/67
+901   156 Boulevard Charles de Gaulle, 92700 Colombes   Colombes/Charles de Gaulle/156
+902   19 Rue de l'Arrivée, 95880 Enghien-les-Bains   Enghien-les-Bains/Arrivée/19
+903   38 ter rue du Mont Valérien, 92210 Saint-Cloud   Saint-Cloud/Mont Valérien/38
+904   114 rue Gallieni, 92100 Boulogne-Billancourt   Boulogne-Billancourt/Gallieni/114
+905   107 Quai de Valmy, 75010 Paris   Paris/Valmy/107
+906   11 Avenue Richerand, 75010 Paris   Paris/Richerand/11
+907   12 Avenue André Prothin, 92400 Courbevoie   Courbevoie/André Prothin/12
+908   109 chaussée de l'Etang, 92350 Plessis-Robinson   Plessis-Robinson/Chaussée de l'Etang/109
+909   25 rue de Galvani, 75017 Paris   Paris/Galvani/25
+910   56 avenue du Maréchal de Lattre de Tassigny, 94000 Créteil   Créteil/Maréchal de Lattre de Tassigny/56
+911   77 avenue Pierre Brossolette, 94000 Créteil   Créteil/Pierre Brossolette/77
+912   200 rue Raymond Pointcarré, 91330 Yerres   Yerres/Raymond Pointcarré/200
+913   41 avenue Bosquet, 75007 Paris   Paris/Bosquet/41
+914   4 rue Beaugrenelle, 75015 Paris   Paris/Beaugrenelle/4
+915   43 rue Vivienne, 75002 Paris   Paris/Vivienne/43
+916   46 rue de Rome, 75008 Paris   Paris/Rome/46
+917   61 quai Blanqui, 94140 Alfortville   Alfortville/Blanqui/61
+918   1 rue Charles-de-Gaulle, 91330 Yerres   Yerres/Charles-de-Gaulle/1
+919   1 rue Claude Terrasse, 93150 Le Blanc-Mesnil   Le Blanc-Mesnil/Claude Terrasse/1
+920   12 rue Armengaud, 92220 Saint-Cloud   Saint-Cloud/Armengaud/12
+921   216 avenue du Général Leclerc, 94000 Créteil   Créteil/Leclerc/216
+922   2 avenue François Mauriac, 94000 Créteil   Créteil/François Mauriac/2
+928   92 rue Pierre Brossolette, 91330 Yerres   Yerres/Pierre Brossolette/92
+929   53 rue Henri Poincaré, 92600 Asnières-sur-Seine   Asnières-sur-Seine/Henri Poincaré/53
+930   16 avenue Galilée, 92350 Plessis-Robinson   Plessis-Robinson/Galilée/16
+931   6 avenue Charles-de-Gaulle, 92350 Plessis-Robinson   Plessis-Robinson/Charles-de-Gaulle/6
+932   1 avenue Victor Hugo, 93130 Noisy-le-Sec   Noisy-le-Sec/Victor Hugo/1
+933   51 avenue Aristide Briand, 92350 Plessis-Robinson   Plessis-Robinson/Aristide Briand/51
+934   6 avenue de Verdun, 92120 Montrouge   Montrouge/Verdun/6
+935   7 rue Vaudetard, 92130 Issy-les-Moulineaux   Issy-les-Moulineaux/Vaudetard/7

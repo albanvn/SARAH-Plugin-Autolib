@@ -1,0 +1,9 @@
+{
+  "modules" : { 
+    "Autolib"  : {
+      "description": "",
+      "version": "1.0",
+	  "stations": ""
+    }
+  }
+}

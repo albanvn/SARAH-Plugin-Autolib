@@ -1,0 +1,39 @@
+.plugin-gridster.Autolib .logo,
+.plugin-gridster.Autolib .text {
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+
+.plugin-gridster.Autolib .logo {
+  background: #33A3EC;
+  left: 0; width: 35%; 
+}
+
+.plugin-gridster.Autolib .logo .ajax {
+  display: block;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.plugin-gridster.Autolib .text {
+  background: #FFFFFF;
+  right: 0; width: 65%; 
+  text-align: left;
+}
+.plugin-gridster.Autolib .text .title {
+  font-size: 22px; line-height: 22px;
+  font-weight: bold;
+}
+.plugin-gridster.Autolib .text .author {
+  font-size: 12px;
+  text-align: right;
+  width: 90%
+}
+.plugin-gridster.Autolib .text .status {
+  font-size: 10px; 
+  font-weight: bold;
+}
+.plugin-gridster.Autolib .text .status img {
+  vertical-align: baseline;
+}
