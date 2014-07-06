@@ -1,7 +1,7 @@
 {
   "modules" : { 
     "Autolib"  : {
-      "description": "",
+      "description": "Permet de connaître l'état des stations autolib",
       "version": "1.0",
 	  "stations": ""
     }

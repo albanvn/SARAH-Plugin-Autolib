@@ -17,3 +17,4 @@ CARLEFT#A la station %STATION%, il y a %NUMBER% voitures disponibles
 NOPARKLEFT#Aucune place disponible à la station %STATION%
 NOCARLEFT#Aucune voiture disponible à la station %STATION%
 STATIONKO#La station %STATION% n'est pas fonctionnelle.
+NOCONFIG#Le pleug in n'est pas configuré

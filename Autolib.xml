@@ -8,6 +8,8 @@
       <item>Places autolib disponibles<tag>out.action.type="park";</tag></item>
       <item>Est-ce qu'il y a des voitures autolib disponibles<tag>out.action.type="get";</tag></item>
       <item>Est-ce qu'il y a des places autolib disponibles<tag>out.action.type="park";</tag></item>
+      <item>Préviens moi lorsqu'il y a des places autolib disponibles<tag>out.action.type="alert1";</tag></item>
+      <item>Previens moi lorsqu'il y a des voitures autolib disponibles<tag>out.action.type="alert2";</tag></item>
     </one-of>
     <item repeat="0-1">
       <one-of>

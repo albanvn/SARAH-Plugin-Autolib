@@ -9,7 +9,8 @@
 
 /*****************************
   TODO LIST:
-    -
+    -particular station question
+	-alert on station change
 ******************************/
 
 var g_debug=0;
@@ -67,6 +68,9 @@ var parseResponse=function(arg, body, data, callback, config, SARAH)
 					else
 						id="NOPARKLEFT";
 					break;
+				case "alert1":
+				case "alert2":
+					break;
 			}
 		if (id!="")
 			SARAH.speak(loc.getLocalString(id));
@@ -94,6 +98,8 @@ var action = function(data, callback, config, SARAH)
 	var config=config.modules.Autolib;
 	if ((g_debug&2)!=0)
 		console.log(data);
+	if (config.stations=="")
+		return callback({'tts': loc.getLocalString("NOCONFIG")});
 	switch(data.type)
 	{
 		case "park":
